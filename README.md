@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**mariadomessi/mariadomessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+boas vindas ao meu perfil🫀
+meu nome é Maria Abramoski 
+estou estudando na alura  
+estou me desenvolvendo na linguagem javaScript 
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-Here are some ideas to get you started:
+### vocẽ pode entrar em contato comigo ⬇️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+maria.abramoski@escola.pr.gov.br 
+
+amo ouvir Taylor swift, e Arctic Monkeys.
+
+Sou fã de Lionel Messi 👽, meus clubes favoritos são ; Corinthians e Barcelona. 💙
+
+@mariaabramoski
+
+![](https://media.tenor.com/eN_4KgMxTjIAAAAC/messi.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
